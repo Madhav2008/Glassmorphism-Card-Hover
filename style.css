@@ -20,5 +20,6 @@ body {
     position: relative;
     width: 1000px;
     display: flex;
-    justify-content: space-between;flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
