@@ -84,4 +84,6 @@ body {
     align-items: center;
 }
 
-.container .card .content h3 {color: #ff0057;}
+.container .card .content h3 {
+    color: #ff0057;
+}
