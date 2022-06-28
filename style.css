@@ -51,5 +51,6 @@ body {
     align-items: center;
     overflow: hidden;
     border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.2);box-shadow: ;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: ;
 }
