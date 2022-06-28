@@ -15,4 +15,6 @@ body {
     background: #f00;
 }
 
-.container {position: inherit;}
+.container {
+    position: inherit;
+}
