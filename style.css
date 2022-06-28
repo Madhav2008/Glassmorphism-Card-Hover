@@ -41,5 +41,5 @@ body {
     position: absolute;
     top: 10px;
     left: 10px;
-    background: rgba(red, green, blue, 0.1);
+    background: rgba(255, green, blue, 0.1);
 }
