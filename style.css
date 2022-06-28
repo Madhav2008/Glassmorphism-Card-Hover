@@ -75,5 +75,6 @@ body {
 
 .container .card .content {
     position: absolute;
-    right: 0;width: ;
+    right: 0;
+    width: ;
 }
