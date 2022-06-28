@@ -73,4 +73,6 @@ body {
     max-width: 75px;
 }
 
-.container .card .content {position: ;}
+.container .card .content {
+    position: ;
+}
