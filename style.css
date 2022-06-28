@@ -16,5 +16,5 @@ body {
 }
 
 .container {
-    position: inherit;
+    position: absolute;
 }
