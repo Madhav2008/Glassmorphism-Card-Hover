@@ -30,5 +30,6 @@ body {
     position: relative;
     height: 250px;
     background: #fff;
-    display: flex;width: 45%;
+    display: flex;
+    width: 45%;
 }
