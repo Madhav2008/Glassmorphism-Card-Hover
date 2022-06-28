@@ -45,5 +45,5 @@ body {
     backdrop-filter: blur(20px);
     width: calc(100% - 20px);
     z-index: 1;
-    display: flex;justify-content: ;
+    display: flex;justify-content: center;
 }
