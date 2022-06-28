@@ -19,5 +19,6 @@ body {
 .container {
     position: relative;
     width: 1000px;
-    display: flex;justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 }
