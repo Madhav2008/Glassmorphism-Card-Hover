@@ -91,5 +91,6 @@ body {
 }
 
 .container .card .content a {
-    display: inline-block;margin-top: 10px;
+    display: inline-block;
+    margin-top: 10px;
 }
