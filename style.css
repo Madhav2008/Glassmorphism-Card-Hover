@@ -79,5 +79,6 @@ body {
     width: calc(100% - 75px);
     height: 100%;
     padding: 20px;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
