@@ -43,5 +43,5 @@ body {
     left: 10px;
     background: rgba(255, 0, 0, 1);
     backdrop-filter: blur(20px);
-    width: calc(100% - 20px);z-index: ;
+    width: calc(100% - 20px);z-index: 1;
 }
