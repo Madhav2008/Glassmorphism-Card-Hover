@@ -21,5 +21,6 @@ body {
     width: 1000px;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;margin: 20px;
+    flex-wrap: wrap;
+    margin: 20px;
 }
