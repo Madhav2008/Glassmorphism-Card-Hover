@@ -20,5 +20,5 @@ body {
     position: relative;
     width: 1000px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;flex: ;
 }
