@@ -56,5 +56,7 @@ body {
     transition: 0.5s ease-in-out;
 }
 
-.container .card:hover .imgBx {height: calc(100% - 20px);
-    width: calc(100% - 20px);}
+.container .card:hover .imgBx {
+    height: calc(100% - 20px);
+    width: calc(100% - 20px);
+}
