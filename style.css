@@ -64,5 +64,6 @@ body {
 }
 
 .container .card:hover .imgBx img {
-    max-width: 100px;filter: invert();
+    max-width: 100px;
+    filter: invert();
 }
