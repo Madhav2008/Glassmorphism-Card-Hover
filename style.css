@@ -28,5 +28,6 @@ body {
 
 .container .card {
     position: relative;
-    height: 250px;background: #fff;
+    height: 250px;
+    background: #fff;
 }
