@@ -64,5 +64,5 @@ body {
 }
 
 .container .card:hover .imgBx img {
-    max-width: ;
+    max-width: 100px;
 }
