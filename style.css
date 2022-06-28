@@ -78,5 +78,6 @@ body {
     right: 0;
     width: calc(100% - 75px);
     height: 100%;
-    padding: 20px;display: flex;
+    padding: 20px;
+    display: flex;
 }
