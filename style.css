@@ -26,4 +26,6 @@ body {
     padding: 20px 0;
 }
 
-.container .card {position: inherit;}
+.container .card {
+    position: inherit;
+}
