@@ -71,6 +71,4 @@ body {
 
 .container .card:hover .imgBx img {
     max-width: 75px;
-    filter: invert(1);
-    transition: 0.5s ease-in-out;
 }
