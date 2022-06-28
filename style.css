@@ -40,5 +40,6 @@ body {
 .container .card .imgBx {
     position: absolute;
     top: 10px;
-    left: 10px;background: rgba(red, green, blue, 0.1);
+    left: 10px;
+    background: rgba(red, green, blue, 0.1);
 }
