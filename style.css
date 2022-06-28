@@ -61,4 +61,6 @@ body {
     width: 150px;
     left: -75px;
     top: calc(50% - 75px);
-}.container .card:hover .imgBx
+}
+
+.container .card:hover .imgBx
