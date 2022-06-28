@@ -49,5 +49,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;border-radius: 20px;
+    overflow: hidden;
+    border-radius: 20px;
 }
