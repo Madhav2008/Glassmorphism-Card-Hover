@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(0deg, #b8ff2e, #2ea8ff);
+    background: linear-gradient(0deg, #b8ff2e, #2ea8ff);background-attachment: fixed;
 }
 
 .container {
