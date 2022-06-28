@@ -48,5 +48,6 @@ body {
     z-index: 1;
     display: flex;
     justify-content: center;
-    align-items: center;overflow: hidden;
+    align-items: center;
+    overflow: hidden;
 }
