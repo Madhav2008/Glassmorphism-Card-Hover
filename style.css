@@ -60,5 +60,5 @@ body {
     height: 150px;
     width: 150px;
     left: -75px;
-    top: calc(50%);
+    top: calc(50%-75);
 }
