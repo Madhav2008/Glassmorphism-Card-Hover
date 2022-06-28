@@ -68,6 +68,7 @@ body {
     filter: invert(1);
     transition: 0.5s ease-in-out;
 }
+
 .container .card .imgBx img {
     max-width: 100px;
     filter: invert(1);
