@@ -38,5 +38,6 @@ body {
 }
 
 .container .card .imgBx {
-    position: absolute;top: 10px;
+    position: absolute;
+    top: 10px;
 }
