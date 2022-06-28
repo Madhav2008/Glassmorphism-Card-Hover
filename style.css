@@ -58,5 +58,5 @@ body {
 
 .container .card:hover .imgBx {
     height: 150px;
-    width: 150px;
+    width: 150px;left: ;
 }
