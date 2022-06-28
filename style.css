@@ -63,4 +63,4 @@ body {
     top: calc(50% - 75px);
 }
 
-.container .card:hover .imgBx img {}
+.container .card:hover .imgBx img {max-width: ;}
