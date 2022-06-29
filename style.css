@@ -122,5 +122,7 @@ body {
     }
 
     .container .card .imgBx,
-    .container .card:hover .imgBx {width: 80%;}
+    .container .card:hover .imgBx {
+        width: 80%;
+    }
 }
