@@ -131,5 +131,6 @@ body {
 
     .container .card:hover .imgBx {
         top: 80px;
-    }
+    }.container .card .imgBx,
+    .container .card:hover .imgBx
 }
