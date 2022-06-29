@@ -101,4 +101,6 @@ body {
     font-weight: 500;
 }
 
-@media (max-width: 992px) {.container}
+@media (max-width: 992px) {
+    .container
+}
