@@ -102,5 +102,7 @@ body {
 }
 
 @media (max-width: 992px) {
-    .container {position: relative;}
+    .container {
+        position: relative;
+    }
 }
