@@ -104,7 +104,8 @@ body {
 @media (max-width: 992px) {
     .container {
         position: relative;
-        width: 100%;flex-direction: column;
+        width: 100%;
+        flex-direction: column;
     }
 
     .container {
