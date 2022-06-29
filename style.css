@@ -117,5 +117,7 @@ body {
         margin: -20px 0;
     }
 
-    .container .card .imgBx {position: inherit;}
+    .container .card .imgBx {
+        position: inherit;
+    }
 }
