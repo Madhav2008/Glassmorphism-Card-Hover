@@ -138,5 +138,7 @@ body {
         max-width: 100px;
     }
 
-    .container .card .content {position: relative;}
+    .container .card .content {
+        position: relative;
+    }
 }
