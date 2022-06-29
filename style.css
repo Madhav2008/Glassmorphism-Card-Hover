@@ -129,5 +129,5 @@ body {
         left: 10%;
     }
 
-    .container .card:hover .imgBx {top: ;}
+    .container .card:hover .imgBx {top: 80px;}
 }
