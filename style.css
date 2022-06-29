@@ -114,7 +114,8 @@ body {
         height: auto;
         flex-direction: column;
         background: transparent;
-        margin: -20px 0;box-shadow: none;
+        margin: -20px 0;
+        box-shadow: none;
     }
 
     .container .card .imgBx {
