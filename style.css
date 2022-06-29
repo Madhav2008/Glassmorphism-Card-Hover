@@ -145,7 +145,7 @@ body {
         background: #fff;
         box-shadow: none;
         border-radius: 20px;
-        padding: 20px 40px;
+        padding: 20px 40px 40px;
         border-top: 100px solid #fff;
     }
 }
