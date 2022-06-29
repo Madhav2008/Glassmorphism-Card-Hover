@@ -127,5 +127,7 @@ body {
         height: 200px;
         top: 100px;
         left: 10%;
-    }.container .card:hover .imgBx
+    }
+
+    .container .card:hover .imgBx
 }
