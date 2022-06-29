@@ -22,7 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/72864817/176378821-e28f86d6-0e52-4227-8e5d-059f35f3534e.png)
 
-
 # Pixel 5
 
 ## Before
