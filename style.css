@@ -118,6 +118,6 @@ body {
     }
 
     .container .card .imgBx {
-        position: inherit;
+        position: relative;
     }
 }
