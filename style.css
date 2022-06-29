@@ -133,6 +133,6 @@ body {
         top: 80px;
     }
 
-    .container .card .imgBx,
+    .container .card .imgBx img,
     .container .card:hover .imgBx
 }
