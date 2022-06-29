@@ -6,7 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/72864817/176377456-48a525f9-e2a8-41dd-8fad-f622d3f74ab6.png)
 
-
 ## Card 1
 
 
