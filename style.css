@@ -122,5 +122,5 @@ body {
     }
 
     .container .card .imgBx,
-    .container .card .imgBx {}
+    .container .card:hover .imgBx {}
 }
