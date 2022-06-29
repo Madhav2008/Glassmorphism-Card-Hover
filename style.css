@@ -112,6 +112,7 @@ body {
     .container .card {
         max-width: 300px;
         height: auto;
-        flex-direction: column;background: transparent;
+        flex-direction: column;
+        background: transparent;
     }
 }
