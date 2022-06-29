@@ -129,5 +129,7 @@ body {
         left: 10%;
     }
 
-    .container .card:hover .imgBx {top: 80px;}
+    .container .card:hover .imgBx {
+        top: 80px;
+    }
 }
