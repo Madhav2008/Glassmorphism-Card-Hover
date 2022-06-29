@@ -103,6 +103,7 @@ body {
 
 @media (max-width: 992px) {
     .container {
-        position: relative;width: 100%;
+        position: relative;
+        width: 100%;
     }
 }
