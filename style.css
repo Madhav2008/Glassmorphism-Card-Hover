@@ -93,5 +93,6 @@ body {
 .container .card .content a {
     display: inline-block;
     margin-top: 10px;
-    padding: 8px 20px;border-radius: ;
+    padding: 8px 20px;
+    border-radius: ;
 }
