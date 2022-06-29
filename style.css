@@ -111,6 +111,6 @@ body {
 
     .container .card {
         max-width: 300px;
-        height: auto;
+        height: auto;flex-direction: ;
     }
 }
