@@ -108,6 +108,6 @@ body {
     }
 
     .container {
-        width: 400px;
+        -ms-text-kashida-space: 400px;
     }
 }
