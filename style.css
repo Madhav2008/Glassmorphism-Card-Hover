@@ -115,5 +115,7 @@ body {
         flex-direction: column;
         background: transparent;
         margin: -20px 0;
-    }.container .card
+    }
+
+    .container .card
 }
