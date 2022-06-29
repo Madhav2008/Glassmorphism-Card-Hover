@@ -139,6 +139,7 @@ body {
     }
 
     .container .card .content {
-        position: relative;width: 100%;
+        position: relative;
+        width: 100%;
     }
 }
