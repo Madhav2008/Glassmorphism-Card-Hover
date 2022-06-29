@@ -134,5 +134,7 @@ body {
     }
 
     .container .card .imgBx img,
-    .container .card:hover .imgBx img {max-width: 100px;}
+    .container .card:hover .imgBx img {
+        max-width: 100px;
+    }
 }
