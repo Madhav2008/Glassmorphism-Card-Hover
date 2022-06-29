@@ -112,6 +112,6 @@ body {
     .container .card {
         max-width: 300px;
         height: auto;
-        flex-direction: ;
+        flex-direction: column;
     }
 }
