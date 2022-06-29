@@ -113,6 +113,6 @@ body {
         max-width: 300px;
         height: auto;
         flex-direction: column;
-        background: transparent;
+        background: transparent;margin: ;
     }
 }
