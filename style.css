@@ -144,7 +144,7 @@ body {
         width: 100%;
         background: #fff;
         box-shadow: none;
-        border-radius: 20px;padding: ;
+        border-radius: 20px;padding: 20px;
         border-top: 100px solid #fff;
     }
 }
