@@ -142,7 +142,7 @@ body {
         position: relative;
         width: 100%;
         background: #fff;
-        box-shadow: none;
+        box-shadow: none;border-radius: ;
         border-top: 100px solid #fff;
     }
 }
