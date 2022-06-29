@@ -109,7 +109,7 @@ body {
         align-items: center;
     }
 
-    .container {
+    .container .card{
         max-width: 300px;
     }
 }
