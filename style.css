@@ -125,6 +125,6 @@ body {
     .container .card:hover .imgBx {
         width: 80%;
         height: 200px;
-        height: 100px;
+        top: 100px;
     }
 }
