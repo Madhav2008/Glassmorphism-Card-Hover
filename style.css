@@ -142,6 +142,6 @@ body {
         position: relative;
         width: 100%;
         background: #fff;
-        box-shadow: none;border-top: 100px;
+        box-shadow: none;border-top: 100px solid;
     }
 }
