@@ -143,6 +143,6 @@ body {
         width: 100%;
         background: #fff;
         box-shadow: none;
-        border-top: 100px solid;
+        border-top: 100px solid #fff;
     }
 }
