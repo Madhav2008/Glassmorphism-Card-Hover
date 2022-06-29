@@ -141,6 +141,7 @@ body {
     .container .card .content {
         position: relative;
         width: 100%;
-        background: #fff;box-shadow: none;
+        background: #fff;
+        box-shadow: none;
     }
 }
